@@ -1,6 +1,5 @@
 -👋 Hi, I’m @Madanga-Dev
-- 👀 I’m interested in Data science , Software Development and Web Development
-- 🌱 I’m currently learning Software Development via Power Learn Program Scholarship
+- 👀 I’m a Data scient , Machine LEarning Lead and Artificcial Intelligence ambassador
 - 💞️ I’m looking to collaborate on Software Development and Data Analytics
 - 📫 How to reach me via LinkedIn Emmanuel Madanga
 - ⚡ Fun fact: I'm Particular
